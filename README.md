@@ -1,4 +1,4 @@
-# Jonathan Ferrari's Portfolio
+# jonathanferrari.github.io
 
 <div align="center">
   <img src="https://media.giphy.com/media/ptzlRfMuHaGgccUzbh/giphy.gif" width="300"/>
